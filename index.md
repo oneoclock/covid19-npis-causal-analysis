@@ -1,7 +1,7 @@
 #Below is the Data Visualization obtained from my CoViD-19 Analysis Project.
 
 ![Image1](feature_imp.png)
-##Above is the visualization of each feature and its importance in determining the number of cases.
+Above is the visualization of each feature and its importance in determining the number of cases.
 
 ![Image3](pop_den.png)
 Distribution of Population density in US counties.
@@ -17,6 +17,7 @@ Distribution of cases per 1 Million.
 Graphical Data visualization of dependence of each feature or factor responsible for the growth of CoViD-19. (Causal Graph)
 
 Information about Data
+
 For this project we use data related to the latest developments of the novel COVID19 in the United States. The visualization
 summarizes the variables selected for understanding the causal mechanism for COVID19 pandemic. We collect demographic
 data such as population density, how urban/rural a location is, and the fraction of elderly population. Similarly,
