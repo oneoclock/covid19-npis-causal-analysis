@@ -1,7 +1,7 @@
-Below is the Data Visualization obtained from my CoViD-19 Analysis Project.
+#Below is the Data Visualization obtained from my CoViD-19 Analysis Project.
 
 ![Image1](feature_imp.png)
-Above is the visualization of each feature and it importance in determining number of cases.
+##Above is the visualization of each feature and its importance in determining the number of cases.
 
 ![Image3](pop_den.png)
 Distribution of Population density in US counties.
@@ -13,6 +13,7 @@ Analysis of number of cases per day since the start of pandemic.
 Distribution of cases per 1 Million.
 
 ![Image2](causal.png)
+
 Graphical Data visualization of dependence of each feature or factor responsible for the growth of CoViD-19. (Causal Graph)
 
 Information about Data
